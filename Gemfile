@@ -9,6 +9,8 @@ gem 'pg', '>= 0.18', '< 2.0'
 
 gem 'pry'
 
+gem "loofah", ">= 2.3.1"
+
 gem 'faker', :git => 'https://github.com/stympy/faker.git', :branch => 'master'
 
 # Use ActiveModel has_secure_password
